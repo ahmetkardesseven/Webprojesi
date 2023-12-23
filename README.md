@@ -1,3 +1,3 @@
 # Webprojesi
-web projesi web programlama dersinin ödevi
+hospital sistem web projesi web programlama dersinin ödevi
 web kisminin proej oluşturuldu
